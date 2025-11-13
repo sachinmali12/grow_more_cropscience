@@ -1,0 +1,651 @@
+[
+  {
+    "name": "SOLDIER",
+    "variety": "ICE BOX ",
+    "type": "F-1 HY",
+    "id": "ice-box-watermelon-soldier",
+    "imageUrl": "assets/soldier.webp",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "2-3 kg per hectare" },
+      { "label": "Plant to Plant", "value": "2-3 feet" },
+      { "label": "Row to Row", "value": "6-8 feet" },
+      { "label": "Germination", "value": "7-10 days" },
+      { "label": "Maturity", "value": "90-95 days from sowing" },
+      { "label": "Fruit Weight", "value": "8-12 kg" },
+      { "label": "Yield Potential", "value": "25-30 tons per hectare" }
+    ]
+  },
+  {
+    "name": "CAPTAIN",
+    "variety": "ICE BOX ",
+    "type": "F-1 HY",
+    "id": "ice-box-watermelon-captain",
+    "imageUrl": "assets/watermelon.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "2-3 kg per hectare" },
+      { "label": "Plant to Plant", "value": "2-3 feet" },
+      { "label": "Row to Row", "value": "6-8 feet" },
+      { "label": "Germination", "value": "7-10 days" },
+      { "label": "Maturity", "value": "85-90 days from sowing" },
+      { "label": "Fruit Weight", "value": "10-15 kg" },
+      { "label": "Yield Potential", "value": "30-35 tons per hectare" }
+    ]
+  },
+  {
+    "name": "MADHURI - 149",
+    "variety": "MUSKMELON ",
+    "type": "F-1 HY",
+    "id": "muskmelon-kachu-madhuri-149",
+    "imageUrl": "assets/muskmelon.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "November to February" },
+      { "label": "Seed Rate", "value": "2.5-3 kg per hectare" },
+      { "label": "Plant to Plant", "value": "60-90 cm" },
+      { "label": "Row to Row", "value": "1.5-2 meters" },
+      { "label": "Germination", "value": "5-8 days" },
+      { "label": "Maturity", "value": "75-80 days from sowing" },
+      { "label": "Fruit Weight", "value": "1-1.5 kg" },
+      { "label": "Yield Potential", "value": "15-20 tons per hectare" }
+    ]
+  },
+  {
+    "name": "GM-GLORRY",
+    "variety": "MUSKMELON ",
+    "type": "F-1 HY",
+    "id": "muskmelon-pakku-gm-glorry",
+    "imageUrl": "assets/glorry.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "November to February" },
+      { "label": "Seed Rate", "value": "2-2.5 kg per hectare" },
+      { "label": "Plant to Plant", "value": "60-90 cm" },
+      { "label": "Row to Row", "value": "1.5-2 meters" },
+      { "label": "Germination", "value": "6-9 days" },
+      { "label": "Maturity", "value": "80-85 days from sowing" },
+      { "label": "Fruit Weight", "value": "1.2-1.8 kg" },
+      { "label": "Yield Potential", "value": "18-22 tons per hectare" }
+    ]
+  },
+  {
+    "name": "RIDDHI",
+    "variety": "OKRA",
+    "type": "F-1 HY",
+    "id": "hybrid-okra-bhindi-riddhi",
+    "imageUrl": "assets/riddhi.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "March-April, June-July" },
+      { "label": "Seed Rate", "value": "15-20 kg per hectare" },
+      { "label": "Plant to Plant", "value": "15-20 cm" },
+      { "label": "Row to Row", "value": "30-45 cm" },
+      { "label": "Germination", "value": "8-12 days" },
+      { "label": "First Harvest", "value": "50-60 days after sowing" },
+      { "label": "Fruit Diameter", "value": "5-8 cm" },
+      { "label": "Yield Potential", "value": "15-20 tons per hectare" }
+    ]
+  },
+  {
+    "name": "MARWADI",
+    "variety": "Foot Kakri",
+    "type": "IMP",
+    "id": "matira-marwadi",
+    "imageUrl": "assets/foot_kakri.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "2-3 kg per hectare" },
+      { "label": "Plant to Plant", "value": "1-1.5 meters" },
+      { "label": "Row to Row", "value": "2-3 meters" },
+      { "label": "Germination", "value": "7-12 days" },
+      { "label": "Maturity", "value": "100-120 days from sowing" },
+      { "label": "Fruit Weight", "value": "3-5 kg" },
+      { "label": "Yield Potential", "value": "20-25 tons per hectare" }
+    ]
+  },
+  {
+    "name": "PURAV",
+    "variety": "KALINGA",
+    "type": "IMP",
+    "id": "kalinga-purav",
+    "imageUrl": "assets/kalinga.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "June to August" },
+      { "label": "Seed Rate", "value": "8-10 kg per hectare" },
+      { "label": "Plant to Plant", "value": "20-30 cm" },
+      { "label": "Row to Row", "value": "45-60 cm" },
+      { "label": "Germination", "value": "8-15 days" },
+      { "label": "Maturity", "value": "120-150 days from sowing" },
+      { "label": "Plant Height", "value": "1-1.5 meters" },
+      { "label": "Yield Potential", "value": "8-12 tons per hectare" }
+    ]
+  },
+  {
+    "name": "SAPNA",
+    "variety": "COULIFLOWER",
+    "type": "F-1 HY",
+    "id": "cauliflower-sapna",
+    "imageUrl": "assets/cauliflower.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "September to November" },
+      { "label": "Seed Rate", "value": "400-500 grams per hectare" },
+      { "label": "Transplanting Age", "value": "25-30 days" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "60-75 cm" },
+      { "label": "Maturity", "value": "70-80 days after transplanting" },
+      { "label": "Curd Weight", "value": "800g-1.2 kg" },
+      { "label": "Yield Potential", "value": "20-25 tons per hectare" }
+    ]
+  },
+  {
+    "name": "YASH - 777",
+    "variety": "CABBIAGE",
+    "type": "F-1 HY",
+    "id": "cabbage-yash-777",
+    "imageUrl": "assets/cabbage.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "September to November" },
+      { "label": "Seed Rate", "value": "400-500 grams per hectare" },
+      { "label": "Transplanting Age", "value": "25-30 days" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "60-75 cm" },
+      { "label": "Maturity", "value": "75-85 days after transplanting" },
+      { "label": "Head Weight", "value": "1-1.5 kg" },
+      { "label": "Yield Potential", "value": "30-40 tons per hectare" },
+      { "label": "Picking Interval", "value": "2-3 days" },
+      { "label": "Yield Potential", "value": "12-15 tons per hectare" }
+    ]
+  },
+  {
+    "name": "RADHIKA-11",
+    "variety": "OKRA",
+    "type": "IMP",
+    "id": "open-pollinated-okra-bhindi-radhika-11",
+    "imageUrl": "assets/radhika.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "March-April, June-July" },
+      { "label": "Seed Rate", "value": "12-15 kg per hectare" },
+      { "label": "Plant to Plant", "value": "15-20 cm" },
+      { "label": "Row to Row", "value": "30-45 cm" },
+      { "label": "Germination", "value": "8-12 days" },
+      { "label": "First Harvest", "value": "50-55 days after sowing" },
+      { "label": "Picking Interval", "value": "2-3 days" },
+      { "label": "Yield Potential", "value": "10-12 tons per hectare" }
+    ]
+  },
+  {
+    "name": "GROW GREEN",
+    "variety": "CUCUMBER",
+    "type": "F-1 HY",
+    "id": "cucumber-kakdi-grow-green",
+    "imageUrl": "assets/grow_green_1.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "September to February" },
+      { "label": "Seed Rate", "value": "2-3 kg per hectare" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "1.5-2 meters" },
+      { "label": "Germination", "value": "5-7 days" },
+      { "label": "First Harvest", "value": "50-55 days after sowing" },
+      { "label": "Fruit Length", "value": "15-20 cm" },
+      { "label": "Yield Potential", "value": "20-25 tons per hectare" }
+    ]
+  },
+  {
+    "name": "KRISHNA-151",
+    "variety": "KHIRA KAKDI",
+    "type": "F-1 HY",
+    "id": "khira-kakdi-krishna-151",
+    "imageUrl": "assets/krishna.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "September to February" },
+      { "label": "Seed Rate", "value": "2-2.5 kg per hectare" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "1.5-2 meters" },
+      { "label": "Germination", "value": "5-7 days" },
+      { "label": "First Harvest", "value": "45-50 days after sowing" },
+      { "label": "Fruit Length", "value": "12-15 cm" },
+      { "label": "Yield Potential", "value": "18-22 tons per hectare" }
+    ]
+  },
+  {
+    "name": "SIDDHI",
+    "variety": "COWPEA",
+    "type": "IMP",
+    "id": "cowpea-siddhi",
+    "imageUrl": "assets/cowpea.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "June to August" },
+      { "label": "Seed Rate", "value": "20-25 kg per hectare" },
+      { "label": "Plant to Plant", "value": "15-20 cm" },
+      { "label": "Row to Row", "value": "30-45 cm" },
+      { "label": "Germination", "value": "6-10 days" },
+      { "label": "First Harvest", "value": "50-60 days after sowing" },
+      { "label": "Pod Length", "value": "15-20 cm" },
+      { "label": "Yield Potential", "value": "8-12 tons per hectare" }
+    ]
+  },
+  {
+    "name": "SHIVAM",
+    "variety": "CLUSTER BEAN",
+    "type": "IMP",
+    "id": "cluster-bean-shivam",
+    "imageUrl": "assets/shivam.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "June to August" },
+      { "label": "Seed Rate", "value": "20-25 kg per hectare" },
+      { "label": "Plant to Plant", "value": "10-15 cm" },
+      { "label": "Row to Row", "value": "30-45 cm" },
+      { "label": "Germination", "value": "7-10 days" },
+      { "label": "First Harvest", "value": "60-70 days after sowing" },
+      { "label": "Pod Length", "value": "10-15 cm" },
+      { "label": "Yield Potential", "value": "10-15 tons per hectare" }
+    ]
+  },
+  {
+    "name": "SURYA",
+    "variety": "CLUSTER BEAN",
+    "type": "IMP",
+    "id": "cluster-bean-surya",
+    "imageUrl": "assets/surya.webp",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "June to August" },
+      { "label": "Seed Rate", "value": "22-28 kg per hectare" },
+      { "label": "Plant to Plant", "value": "10-15 cm" },
+      { "label": "Row to Row", "value": "30-45 cm" },
+      { "label": "Germination", "value": "7-10 days" },
+      { "label": "First Harvest", "value": "65-75 days after sowing" },
+      { "label": "Pod Length", "value": "12-18 cm" },
+      { "label": "Yield Potential", "value": "12-18 tons per hectare" }
+    ]
+  },
+  {
+    "name": "MAHI",
+    "variety": "BOTTLE GUARD",
+    "type": "F-1 HY",
+    "id": "bottle-guard-mahi",
+    "imageUrl": "assets/mahi.webp",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "June to August, October to December"
+      },
+      { "label": "Seed Rate", "value": "3-4 kg per hectare" },
+      { "label": "Plant to Plant", "value": "1-1.5 meters" },
+      { "label": "Row to Row", "value": "2-3 meters" },
+      { "label": "Germination", "value": "6-9 days" },
+      { "label": "First Harvest", "value": "60-70 days after sowing" },
+      { "label": "Fruit Length", "value": "30-40 cm" },
+      { "label": "Yield Potential", "value": "25-30 tons per hectare" }
+    ]
+  },
+  {
+    "name": "PRAGATI",
+    "variety": "RIDGE GUARD",
+    "type": "F-1 HY",
+    "id": "ridge-guard-pragati",
+    "imageUrl": "assets/pragati.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "June to August" },
+      { "label": "Seed Rate", "value": "3-4 kg per hectare" },
+      { "label": "Plant to Plant", "value": "80-100 cm" },
+      { "label": "Row to Row", "value": "1.5-2 meters" },
+      { "label": "Germination", "value": "6-9 days" },
+      { "label": "First Harvest", "value": "55-65 days after sowing" },
+      { "label": "Fruit Length", "value": "25-35 cm" },
+      { "label": "Yield Potential", "value": "20-25 tons per hectare" }
+    ]
+  },
+  {
+    "name": "SHYAM-55",
+    "variety": "TOMATO",
+    "type": "F-1 HY",
+    "id": "tomato-sahu-shyam-55",
+    "imageUrl": "assets/shyam.png",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "October to December, June to August"
+      },
+      { "label": "Seed Rate", "value": "400-500 grams per hectare" },
+      { "label": "Transplanting Age", "value": "25-30 days" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "75-90 cm" },
+      { "label": "First Harvest", "value": "70-80 days after transplanting" },
+      { "label": "Fruit Weight", "value": "80-120 grams" },
+      { "label": "Yield Potential", "value": "40-50 tons per hectare" }
+    ]
+  },
+  {
+    "name": "RISHIKESH",
+    "variety": "TOMATO",
+    "type": "F-1 HY",
+    "id": "tomato-rishika-rishikesh",
+    "imageUrl": "assets/rishikesh.webp",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "October to December, June to August"
+      },
+      { "label": "Seed Rate", "value": "400-500 grams per hectare" },
+      { "label": "Transplanting Age", "value": "25-30 days" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "75-90 cm" },
+      { "label": "First Harvest", "value": "75-85 days after transplanting" },
+      { "label": "Fruit Weight", "value": "90-140 grams" },
+      { "label": "Yield Potential", "value": "45-55 tons per hectare" }
+    ]
+  },
+  {
+    "name": "ABHAY - 201",
+    "variety": "TOMATO",
+    "type": "F-1 HY",
+    "id": "tomato-abhilasha-abhay-201",
+    "imageUrl": "assets/abhay.webp",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "October to December, June to August"
+      },
+      { "label": "Seed Rate", "value": "350-400 grams per hectare" },
+      { "label": "Transplanting Age", "value": "25-30 days" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "75-90 cm" },
+      { "label": "First Harvest", "value": "70-80 days after transplanting" },
+      { "label": "Fruit Weight", "value": "100-150 grams" },
+      { "label": "Yield Potential", "value": "50-60 tons per hectare" }
+    ]
+  },
+  {
+    "name": "VIRAT",
+    "variety": "TOMATO",
+    "type": "F-1 HY",
+    "id": "tomato-virang-virat",
+    "imageUrl": "assets/virat.png",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "October to December, June to August"
+      },
+      { "label": "Seed Rate", "value": "400-500 grams per hectare" },
+      { "label": "Transplanting Age", "value": "25-30 days" },
+      { "label": "Plant to Plant", "value": "45-60 cm" },
+      { "label": "Row to Row", "value": "75-90 cm" },
+      { "label": "First Harvest", "value": "65-75 days after transplanting" },
+      { "label": "Fruit Weight", "value": "70-110 grams" },
+      { "label": "Yield Potential", "value": "35-45 tons per hectare" }
+    ]
+  },
+  {
+    "name": "PRACHI",
+    "variety": "CHILLI",
+    "type": "F-1 HY",
+    "id": "mirchi-krishna-prachi",
+    "imageUrl": "assets/prachi.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "June to August, October to December"
+      },
+      { "label": "Seed Rate", "value": "750-1000 grams per hectare" },
+      { "label": "Transplanting Age", "value": "30-35 days" },
+      { "label": "Plant to Plant", "value": "30-45 cm" },
+      { "label": "Row to Row", "value": "60-75 cm" },
+      { "label": "First Harvest", "value": "80-90 days after transplanting" },
+      { "label": "Fruit Length", "value": "12-15 cm" },
+      { "label": "Yield Potential", "value": "15-20 tons per hectare" }
+    ]
+  },
+  {
+    "name": "HONEY",
+    "variety": "CHILLI",
+    "type": "F-1 HY",
+    "id": "mirchi-sanya-honey",
+    "imageUrl": "assets/chilli.jpg",
+    "targetUrl": "",
+    "specifications": [
+      {
+        "label": "Sowing Season",
+        "value": "June to August, October to December"
+      },
+      { "label": "Seed Rate", "value": "750-1000 grams per hectare" },
+      { "label": "Transplanting Age", "value": "30-35 days" },
+      { "label": "Plant to Plant", "value": "30-45 cm" },
+      { "label": "Row to Row", "value": "60-75 cm" },
+      { "label": "First Harvest", "value": "75-85 days after transplanting" },
+      { "label": "Fruit Length", "value": "10-12 cm" },
+      { "label": "Yield Potential", "value": "12-18 tons per hectare" }
+    ]
+  },
+  {
+    "name": "SURBHI-41",
+    "variety": "ONION-41",
+    "type": "IMP",
+    "id": "onion-41-surbhi",
+    "imageUrl": "assets/surbhi.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to December" },
+      { "label": "Seed Rate", "value": "8-10 kg per hectare" },
+      { "label": "Transplanting Age", "value": "45-50 days" },
+      { "label": "Plant to Plant", "value": "10-15 cm" },
+      { "label": "Row to Row", "value": "15-20 cm" },
+      { "label": "Maturity", "value": "120-140 days from transplanting" },
+      { "label": "Bulb Weight", "value": "50-80 grams" },
+      { "label": "Yield Potential", "value": "25-35 tons per hectare" }
+    ]
+  },
+  {
+    "name": "ASTHA-N53",
+    "variety": "ONION-N53",
+    "type": "IMP",
+    "id": "onion-n53-astha",
+    "imageUrl": "assets/red_onion.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to December" },
+      { "label": "Seed Rate", "value": "8-10 kg per hectare" },
+      { "label": "Transplanting Age", "value": "45-50 days" },
+      { "label": "Plant to Plant", "value": "10-15 cm" },
+      { "label": "Row to Row", "value": "15-20 cm" },
+      { "label": "Maturity", "value": "130-150 days from transplanting" },
+      { "label": "Bulb Weight", "value": "60-100 grams" },
+      { "label": "Yield Potential", "value": "30-40 tons per hectare" }
+    ]
+  },
+  {
+    "name": "LIYANA",
+    "variety": "SPINACH",
+    "type": "IMP",
+    "id": "spinach-liyana",
+    "imageUrl": "assets/spinach.jpg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "15-20 kg per hectare" },
+      { "label": "Plant to Plant", "value": "15-20 cm" },
+      { "label": "Row to Row", "value": "20-25 cm" },
+      { "label": "Germination", "value": "7-12 days" },
+      { "label": "First Harvest", "value": "25-30 days after sowing" },
+      { "label": "Cutting Interval", "value": "15-20 days" },
+      { "label": "Yield Potential", "value": "8-12 tons per hectare" }
+    ]
+  },
+  {
+    "name": "BHARAT",
+    "variety": "CORIANDER",
+    "type": "IMP",
+    "id": "coriander-dhaniya-bharat",
+    "imageUrl": "assets/coriander.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "20-25 kg per hectare" },
+      { "label": "Plant to Plant", "value": "10-15 cm" },
+      { "label": "Row to Row", "value": "20-25 cm" },
+      { "label": "Germination", "value": "10-15 days" },
+      { "label": "First Harvest", "value": "30-40 days after sowing" },
+      { "label": "Cutting Interval", "value": "20-25 days" },
+      { "label": "Yield Potential", "value": "6-10 tons per hectare" }
+    ]
+  },
+  {
+    "name": "RUBY",
+    "variety": "RADDISH",
+    "type": "F-1 HY",
+    "id": "hybrid-radish-rubi",
+    "imageUrl": "assets/ruby.webp",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "8-10 kg per hectare" },
+      { "label": "Plant to Plant", "value": "5-8 cm" },
+      { "label": "Row to Row", "value": "20-25 cm" },
+      { "label": "Germination", "value": "5-7 days" },
+      { "label": "Maturity", "value": "30-40 days from sowing" },
+      { "label": "Root Length", "value": "15-20 cm" },
+      { "label": "Yield Potential", "value": "15-20 tons per hectare" }
+    ]
+  },
+  {
+    "name": "BHUMIKA",
+    "variety": "RADDISH",
+    "type": "IMP",
+    "id": "open-pollinated-radish-bhumika",
+    "imageUrl": "assets/bhumika.png",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "10-12 kg per hectare" },
+      { "label": "Plant to Plant", "value": "5-8 cm" },
+      { "label": "Row to Row", "value": "20-25 cm" },
+      { "label": "Germination", "value": "6-8 days" },
+      { "label": "Maturity", "value": "35-45 days from sowing" },
+      { "label": "Root Length", "value": "12-18 cm" },
+      { "label": "Yield Potential", "value": "12-18 tons per hectare" }
+    ]
+  },
+  {
+    "name": "RED QUEEN",
+    "variety": "CARROT",
+    "type": "IMP",
+    "id": "carrot-red-queen",
+    "imageUrl": "assets/red_queen.webp",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to February" },
+      { "label": "Seed Rate", "value": "4-5 kg per hectare" },
+      { "label": "Plant to Plant", "value": "3-5 cm" },
+      { "label": "Row to Row", "value": "25-30 cm" },
+      { "label": "Germination", "value": "12-18 days" },
+      { "label": "Maturity", "value": "90-110 days from sowing" },
+      { "label": "Root Length", "value": "20-25 cm" },
+      { "label": "Yield Potential", "value": "25-35 tons per hectare" }
+    ]
+  },
+  {
+    "name": "GROW-10",
+    "variety": "PEA",
+    "type": "IMP",
+    "id": "pea-grow-10",
+    "imageUrl": "assets/grow_10.webp",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "October to January" },
+      { "label": "Seed Rate", "value": "80-100 kg per hectare" },
+      { "label": "Plant to Plant", "value": "5-8 cm" },
+      { "label": "Row to Row", "value": "30-45 cm" },
+      { "label": "Germination", "value": "8-12 days" },
+      { "label": "First Harvest", "value": "60-70 days after sowing" },
+      { "label": "Pod Length", "value": "8-12 cm" },
+      { "label": "Yield Potential", "value": "8-12 tons per hectare" }
+    ]
+  },
+  {
+    "name": "TEENA",
+    "variety": "TINDA",
+    "type": "IMP",
+    "id": "tinda-teena",
+    "imageUrl": "assets/teena.webp",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Sowing Season", "value": "June to August" },
+      { "label": "Seed Rate", "value": "3-4 kg per hectare" },
+      { "label": "Plant to Plant", "value": "60-80 cm" },
+      { "label": "Row to Row", "value": "2-3 meters" },
+      { "label": "Germination", "value": "6-10 days" },
+      { "label": "First Harvest", "value": "50-60 days after sowing" },
+      { "label": "Fruit Diameter", "value": "5-8 cm" },
+      { "label": "Yield Potential", "value": "15-20 tons per hectare" }
+    ]
+  },
+  {
+    "name": "AMAR",
+    "variety": "Pumpkin",
+    "type": "F-1 HY",
+    "id": "amar-pumpkin",
+    "imageUrl": "assets/pumpkin.jpeg",
+    "targetUrl": "",
+    "specifications": [
+      { "label": "Fruit Weight", "value": "3–4 kg (medium size, uniform)" },
+      {
+        "label": "Fruit Shape",
+        "value": "Round to oval (uniform shape, attractive)"
+      },
+      {
+        "label": "Fruit Color (Rind)",
+        "value": "Dark green / green with light mottling (depends on variety)"
+      },
+      {
+        "label": "Flesh Color",
+        "value": "Deep yellow to orange (rich in carotene, good taste)"
+      },
+      { "label": "Flesh Thickness", "value": "3–4 cm, firm and sweet" },
+      { "label": "Days to First Harvest", "value": "90–100 days after sowing" },
+      {
+        "label": "Yield Potential",
+        "value": "200–250 quintals per hectare (20–25 tons/acre approx.)"
+      },
+      { "label": "Maturity", "value": "Medium early maturity" },
+      {
+        "label": "Seed Type",
+        "value": "Bold, high germination percentage (>85%)"
+      },
+      {
+        "label": "Vine Habit",
+        "value": "Vigorous spreading vines with good branching"
+      },
+      {
+        "label": "Disease Tolerance",
+        "value": "Tolerant to Powdery Mildew and Downy Mildew (variety dependent)"
+      },
+      {
+        "label": "Storage & Transport",
+        "value": "Good keeping quality, suitable for long-distance transport"
+      },
+      {
+        "label": "Market Suitability",
+        "value": "Table purpose, cooking, and fresh market sales"
+      }
+    ]
+  }
+]
